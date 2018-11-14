@@ -45,6 +45,7 @@ public class RecursionDanger {
         }
     }
 
+
     private static int[] createArray(Scanner sc) {
         System.out.println("Введитье длинну");
         int length = sc.nextInt();
